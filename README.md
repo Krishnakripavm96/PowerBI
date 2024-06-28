@@ -20,8 +20,7 @@ The Global Sales Report is developed to deliver an in-depth analysis of sales da
 - **Geographical Insights**: Visualize sales distribution and performance across various geographic locations using map visuals and regional charts.
 
 ### Dashboard Breakdown
-- **Key Metrics**: Displays overall sales ($12.6M), quantity sold (178K units), profit ($1.47M), shipping cost ($1.35M), and discounts ($7.33K).
-- **Toatal profit**: Highlights total profit of the globalstore.It shows around 1.47M
+- **Key Metrics**: Displays overall sales ($12.6M), quantity shipped (178K units) and Total profit ($1.47M).
 - **Sales by State**: Shows top-performing states, with England at $0.49M.
 - **Sales by Market**: Details sales across major markets, with APAC leading at $3.6M.
 - **Sales by Region**: Provides a regional breakdown, with Central leading at $2.82M.
