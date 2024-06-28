@@ -21,13 +21,12 @@ The Global Sales Report is developed to deliver an in-depth analysis of sales da
 
 ### Dashboard Breakdown
 - **Key Metrics**: Displays overall sales ($12.6M), quantity sold (178K units), profit ($1.47M), shipping cost ($1.35M), and discounts ($7.33K).
-- **Sales by City**: Highlights top-performing cities, with New York leading at $0.26M.
+- **Toatal profit**: Highlights total profit of the globalstore.It shows around 1.47M
 - **Sales by State**: Shows top-performing states, with England at $0.49M.
-- **Sales by Market**: Details sales across major markets, with APAC leading at $3.59M.
-- **Sales by Region**: Provides a regional breakdown, with Central leading at $2.8M.
+- **Sales by Market**: Details sales across major markets, with APAC leading at $3.6M.
+- **Sales by Region**: Provides a regional breakdown, with Central leading at $2.82M.
 - **Shipping Mode Analysis**: Illustrates the distribution of sales by shipping methods, with Standard Class being the most used at 60%.
-- **Geographical Distribution**: A map visual indicating sales and profit contributions globally.
-
+- **Geographical Distribution**: A map visual indicating total sales in region and states globally.
 ### Disclaimer
 This project is created for educational purposes and is not intended for business or commercial use. The data used is fictional or anonymized to protect any real business information.
 
